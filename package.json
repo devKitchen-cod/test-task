@@ -12,6 +12,7 @@
     "husky-install": "husky install"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
     "next": "12.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
