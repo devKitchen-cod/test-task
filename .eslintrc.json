@@ -1,11 +1,11 @@
 {
   "env": {
     "browser": true,
-    "es2021": true
+    "es2021": true,
+    "node": true
   },
   "extends": [
     "eslint:recommended",
-    // "react/jsx-runtime",
     "plugin:react/jsx-runtime",
     "plugin:@typescript-eslint/recommended",
     "prettier"

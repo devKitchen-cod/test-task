@@ -1,0 +1,9 @@
+package-lock.json
+yarn.lock
+node_modules
+.eslintrc.json
+lint-staged.js
+next-env.d.ts
+commitlint.config.js
+next.config.js
+tsconfig.json
